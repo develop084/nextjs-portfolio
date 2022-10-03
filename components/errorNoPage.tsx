@@ -5,7 +5,7 @@ const ErrorNoPage = () => {
         Page not found
       </h1>
       <p className="mb-6">
-        React Bricks cannot find a page for the specified slug.
+       404
       </p>
     </div>
   )
